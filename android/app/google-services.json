@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421509571338",
+    "project_id": "pawsocial-f9056",
+    "storage_bucket": "pawsocial-f9056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421509571338:android:7d4f9b6a5d51a7db2710f3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eIuuLl6V8P4p_LNXm7P5ShbvAIMeeTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

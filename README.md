@@ -1,8 +1,8 @@
-# PetFriends - Pet Rescue and Adoption App
+# PatasAmigas - Pet Rescue and Adoption App
 
 ## Description
 
-PetFriends is an application designed to facilitate the rescue and adoption of pets. We connect rescue organizations, volunteers, and potential adopters in one place, providing a friendly and effective platform to find loving homes for animals in need.
+PatasAmigas is an application designed to facilitate the rescue and adoption of pets. We connect rescue organizations, volunteers, and potential adopters in one place, providing a friendly and effective platform to find loving homes for animals in need.
 
 ## Features
 
@@ -30,7 +30,7 @@ We welcome any contributions to improve PetFriends. If you'd like to contribute,
 - Juan Gámez
 - Luis Hernández
 
-Thank you for your interest in PetFriends!
+Thank you for your interest in PatasAmigas!
 
 ---
 
